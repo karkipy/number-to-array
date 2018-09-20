@@ -1,6 +1,6 @@
 {
   "name": "number-to-array",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "a mini library to convert say given input  to an array it can be just the end number or a string or anything",
   "main": "index.js",
   "repository": "git@github.com:karkipy/number-to-array.git",
